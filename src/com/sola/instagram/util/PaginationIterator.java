@@ -3,11 +3,10 @@ package com.sola.instagram.util;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
 import com.sola.instagram.io.GetMethod;
+import com.sola.org.json.JSONArray;
+import com.sola.org.json.JSONException;
+import com.sola.org.json.JSONObject;
 
 public class PaginationIterator<E> implements Iterator<E> {
 	protected String nextUri; 

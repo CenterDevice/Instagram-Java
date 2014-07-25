@@ -7,12 +7,11 @@ import com.sola.instagram.io.PostMethod;
 import com.sola.instagram.io.UriFactory;
 import com.sola.instagram.model.User;
 import com.sola.instagram.util.UriConstructor;
+import com.sola.org.json.JSONException;
+import com.sola.org.json.JSONObject;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-
-import org.json.JSONException;
-import org.json.JSONObject;
 
 public class InstagramAuthentication {
 	String redirectUri;

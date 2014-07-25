@@ -1,8 +1,8 @@
 package com.sola.instagram.io;
 
-import org.json.JSONException;
-import org.json.JSONObject;
-import org.json.JSONTokener;
+import com.sola.org.json.JSONException;
+import com.sola.org.json.JSONObject;
+import com.sola.org.json.JSONTokener;
 
 public class RequestResponse {
 	

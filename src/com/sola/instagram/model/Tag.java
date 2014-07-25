@@ -1,7 +1,7 @@
 package com.sola.instagram.model;
 
-import org.json.JSONException;
-import org.json.JSONObject;
+import com.sola.org.json.JSONException;
+import com.sola.org.json.JSONObject;
 
 
 public class Tag extends InstagramModel {

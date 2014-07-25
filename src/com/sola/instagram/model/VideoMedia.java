@@ -1,9 +1,8 @@
 package com.sola.instagram.model;
 
-import org.json.JSONException;
-import org.json.JSONObject;
-
 import com.sola.instagram.model.Media;
+import com.sola.org.json.JSONException;
+import com.sola.org.json.JSONObject;
 
 public class VideoMedia extends Media {
 

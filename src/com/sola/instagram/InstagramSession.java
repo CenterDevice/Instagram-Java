@@ -34,14 +34,13 @@ import com.sola.instagram.model.*;
 import com.sola.instagram.util.PaginatedCollection;
 import com.sola.instagram.util.PaginationIterator;
 import com.sola.instagram.util.UriConstructor;
+import com.sola.org.json.JSONArray;
+import com.sola.org.json.JSONException;
+import com.sola.org.json.JSONObject;
 
 import java.util.HashMap;
 import java.util.ArrayList;
 import java.util.List;
-
-import org.json.JSONException;
-import org.json.JSONObject;
-import org.json.JSONArray;
 
 /**
  * Constains a methods used to interact with the API.

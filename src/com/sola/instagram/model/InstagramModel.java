@@ -1,6 +1,6 @@
 package com.sola.instagram.model;
 
-import org.json.JSONObject;
+import com.sola.org.json.JSONObject;
 
 public abstract class InstagramModel {
 	String accessToken;

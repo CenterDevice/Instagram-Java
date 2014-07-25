@@ -1,12 +1,11 @@
 package com.sola.instagram.model;
 import java.util.HashMap;
 
-import org.json.JSONObject;
-import org.json.JSONException;	
-
 import com.sola.instagram.io.GetMethod;
 import com.sola.instagram.io.UriFactory;
 import com.sola.instagram.util.UriConstructor;
+import com.sola.org.json.JSONException;
+import com.sola.org.json.JSONObject;
 
 
 public class User extends InstagramModel {

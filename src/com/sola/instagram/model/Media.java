@@ -28,14 +28,13 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
 import com.sola.instagram.exception.InstagramException;
 import com.sola.instagram.io.GetMethod;
 import com.sola.instagram.io.UriFactory;
 import com.sola.instagram.util.UriConstructor;
+import com.sola.org.json.JSONArray;
+import com.sola.org.json.JSONException;
+import com.sola.org.json.JSONObject;
 
 /**
  * Object for a piece of Media

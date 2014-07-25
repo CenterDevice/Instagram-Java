@@ -10,8 +10,8 @@ import com.sola.instagram.model.Relationship;
 import com.sola.instagram.model.User;
 import com.sola.instagram.model.VideoMedia;
 import com.sola.instagram.util.PaginatedCollection;
+import com.sola.org.json.JSONException;
 
-import org.json.JSONException;
 import org.junit.Test;
 
 public class InstagramSessionTest {
